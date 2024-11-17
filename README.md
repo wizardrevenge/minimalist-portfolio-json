@@ -1,5 +1,4 @@
 <div align="center">
-<img src="logo.png" height="90px" width="auto" /> 
 <h2>
     <em>Résumé</em> minimalista maquetado para web y pdf
 </h2>
@@ -55,28 +54,15 @@ Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz J
 
 ## 🚀 Empezar
 
-### 1. Usa este [repo](https://github.com/midudev/minimalist-portfolio-json) como _template_ de un proyecto de Astro
-
-- Yo uso [pnpm](https://pnpm.io/installation) como gestor de dependencias y empaquetador.
-
-```bash
-# Activa pnpm en MacOS, WSL & Linux:
-corepack enable
-corepack prepare pnpm@latest --activate
-
-# Inicializa el proyecto
-pnpm create astro@latest -- --template midudev/minimalist-portfolio-json
-```
-
-### 2. Añade tu contenido:
+### 1. Añade tu contenido:
 
 Edita el archivo `cv.json` para crear tu propio Portafolio/CV imprimible.
 
-### 3. Lanza el servidor de desarrollo:
+### 2. Lanza el servidor de desarrollo:
 
 ```bash
 # Disfruta del resultado
-pnpm dev
+bun dev
 ```
 
 1. Abre [**http://localhost:4321**](http://localhost:4321/) en tu navegador para ver el resultado 🚀
