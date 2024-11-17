@@ -1,15 +1,14 @@
 ---
-import Layout from "@/layouts/Layout.astro"
+import KeyboardManager from '@/components/KeyboardManager.astro'
+import About from '@/components/sections/About.astro'
+import Education from '@/components/sections/Education.astro'
+import Experience from '@/components/sections/Experience.astro'
+import Hero from '@/components/sections/Hero.astro'
+import Projects from '@/components/sections/Projects.astro'
+import Skills from '@/components/sections/Skills.astro'
+import Layout from '@/layouts/Layout.astro'
+import { basics } from '@cv'
 
-import About from "@/components/sections/About.astro"
-import Education from "@/components/sections/Education.astro"
-import Experience from "@/components/sections/Experience.astro"
-import Hero from "@/components/sections/Hero.astro"
-import Projects from "@/components/sections/Projects.astro"
-import Skills from "@/components/sections/Skills.astro"
-import KeyboardManager from "@/components/KeyboardManager.astro"
-
-import { basics } from "@cv"
 const { name, label } = basics
 ---
 
@@ -21,21 +20,21 @@ const { name, label } = basics
     <Education />
     <Projects />
     <Skills />
+
+    <KeyboardManager />
   </main>
 
-  <KeyboardManager />
-</Layout>
-
-<style>
-  main {
-    padding: 4rem;
-    margin: auto;
-    width: 100%;
-  }
-
-  @media (width <= 700px) {
+  <style>
     main {
-      padding: 2rem;
+      padding: 4rem;
+      margin: auto;
+      width: 100%;
     }
-  }
-</style>
+
+    @media (width <= 700px) {
+      main {
+        padding: 2rem;
+      }
+    }
+  </style>
+</Layout>

@@ -1,190 +1,138 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "name": "Royer Emilio Rutti Ramos",
+    "label": "Desarrollador de software con 2 años de experiencia como desarrollador web Fullstack",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "email": "ruttiramosroyer@gmail.com",
+    "phone": "+5117541550",
+    "url": "https://royerrutti.dev",
+    "summary": "Desarrollador de software con experiencia en HTML, CSS, JavaScript, TypeScript, SQL y PHP. Competente en frameworks como React, React Native, Next.js y Astro, así como en herramientas cloud como AWS, Vercel, Cloudflare y GCP. Con experiencia liderando equipos y desarrollando aplicaciones web escalables.",
     "location": {
       "address": "",
       "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "city": "Lima",
       "countryCode": "ES",
-      "region": "España"
+      "region": "Perú"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "royer-rutti-ramos",
+        "url": "https://www.linkedin.com/in/royer-rutti-ramos/"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "wizardrrr",
+        "url": "https://github.com/WizardRRR"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Easy Hotel Perú",
+      "position": "Software Development Team Lead",
+      "url": "https://www.easyhotel.pe/",
+      "startDate": "2022-11-01",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
-      "highlights": [
-        "Started the company"
-      ]
+      "summary": "Lideré y desarrollé plataformas como EasyHotelSystem, un sistema hotelero, EasyHotel, una herramienta de geolocalización para alojamientos y ERP EasyHotel, una plataforma de gestión empresarial. Supervisé despliegues, mantenimiento y actualizaciones junto a un equipo de desarrolladores.",
+      "highlights": ["Started the company"]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
-      "highlights": [
-        "Started the company"
-      ]
+      "name": "HelpPet",
+      "position": "Front End Developer - Autonomo",
+      "url": null,
+      "startDate": "2023-02-01",
+      "endDate": "2024-09-01",
+      "summary": "Desarrollé una aplicación móvil con React Native para Android e iOS. Implementé sistemas de autenticación, animaciones, y compilación de APK, utilizando principios de programación funcional.",
+      "highlights": ["Started the company"]
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+  "education": [
+    {
+      "institution": "Senati",
+      "url": "https://www.senati.edu.pe/",
+      "area": "Desarrollo de software",
+      "studyType": "Technician",
+      "startDate": "2021-01-01",
+      "endDate": "2024-06-01",
+      "score": "4.0"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
   "skills": [
     {
       "name": "HTML",
       "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend"]
     },
     {
-      "name": "CSS",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
-      ]
+      "name": "CSS"
     },
     {
-      "name": "JavaScript",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-      ]
+      "name": "JavaScript"
     },
     {
-      "name": "Tailwind",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
-      ]
+      "name": "TypeScript"
     },
     {
-      "name": "TypeScript",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-      ]
+      "name": "PHP"
     },
     {
-      "name": "Node",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-      ]
+      "name": "Tailwind"
     },
     {
-      "name": "MySQL",
-      "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
-      ]
+      "name": "React"
     },
     {
-      "name": "Git",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
-      ]
+      "name": "React Native"
     },
     {
-      "name": "GitHub",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
-      ]
+      "name": "Next.js"
     },
     {
-      "name": "Next.js",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
+      "name": "MySQL"
     },
     {
-      "name": "React",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
+      "name": "Laravel"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "GitHub"
+    },
+    {
+      "name": "Vercel"
+    },
+    {
+      "name": "AWS"
+    },
+    {
+      "name": "GCP"
     }
   ],
   "languages": [
@@ -194,82 +142,53 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Basic"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Easy Hotel Perú",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Plataforma innovadora que combina geolocalización y un directorio digital para facilitar la búsqueda de alojamientos en todo el Perú.",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "+1500 alojamientos",
+        "+1000 usuarios únicos mensuales",
+        "Nexjts & Typescript & React & Vercel"
       ],
-      "url": "https://mars.codes"
+      "url": "https://www.easyhotel.pe/"
     },
     {
-      "name": "AdventJS",
+      "name": "Easy Hotel System",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
-      "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
-      ],
-      "url": "https://adventjs.dev"
+      "description": "Sistema de gestión hotelera diseñado para simplificar la administración de habitaciones, clientes y facturación, ofreciendo planes de suscripción flexibles.",
+      "highlights": ["PHP & MySQL & Laravel & AWS", "Javascript & React & Tailwind"],
+      "url": "https://easyhotelsystem.com/"
     },
     {
-      "name": "Codember",
+      "name": "ERP Easy Hotel",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
-      "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
-      ],
-      "url": "https://codember.dev"
+      "description": "Plataforma integral de gestión empresarial que centraliza el manejo de recursos, operaciones y finanzas para EasyHotel y sus sistemas asociados.",
+      "highlights": ["PHP & MySQL & Laravel & AWS", "TypeScript, React"],
+      "url": "https://erp.easyhotel.pe/"
     },
     {
-      "name": "codi.link",
+      "name": "HelpPet",
       "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "description": "Aplicación móvil centrada en mejorar la vida de las mascotas y sus dueños, con funcionalidades de salud, nutrición, actividades y asistencia en emergencias.",
+      "highlights": ["React Native, Expo", "Android, iOS", "En desarrollo"],
+      "url": null
     }
   ]
 }

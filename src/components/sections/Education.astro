@@ -1,16 +1,15 @@
 ---
-import Section from "../Section.astro"
+import Section from '../Section.astro'
 
-import { education } from "@cv"
+import { education } from '@cv'
 ---
 
-<Section title="Educación">
+<Section title='Educación'>
   <ul>
     {
       education.map(({ institution, startDate, endDate, area }) => {
         const startYear = new Date(startDate).getFullYear()
-        const endYear =
-          endDate != null ? new Date(endDate).getFullYear() : "Actual"
+        const endYear = endDate != null ? new Date(endDate).getFullYear() : 'Actual'
         const years = `${startYear} - ${endYear}`
 
         return (
