@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Royer Emilio Rutti Ramos",
-    "label": "Desarrollador de software con 2 años de experiencia como desarrollador web Fullstack",
+    "label": "Desarrollador de software con más de 2 años de experiencia como desarrollador web Fullstack",
     "image": "/me.webp",
     "email": "ruttiramosroyer@gmail.com",
-    "phone": "+5117541550",
-    "url": "https://royerrutti.dev",
+    "phone": "+51943099815",
+    "url": "https://wizardrevenge.com",
     "summary": "Desarrollador de software con experiencia en HTML, CSS, JavaScript, TypeScript, SQL y PHP. Competente en frameworks como React, React Native, Next.js y Astro, así como en herramientas cloud como AWS, Vercel, Cloudflare y GCP. Con experiencia liderando equipos y desarrollando aplicaciones web escalables.",
     "location": {
       "address": "",
@@ -189,6 +189,27 @@
       "description": "Aplicación móvil centrada en mejorar la vida de las mascotas y sus dueños, con funcionalidades de salud, nutrición, actividades y asistencia en emergencias.",
       "highlights": ["React Native, Expo", "Android, iOS", "En desarrollo"],
       "url": null
+    },
+    {
+      "name": "HelpPet Master",
+      "isActive": true,
+      "description": "Participe como desarrollador frontend en el desarrollo de sistema de gestión de aplicación para aplicación HelpPet",
+      "highlights": ["React", "Typescript"],
+      "url": null
+    },
+    {
+      "name": "HelpPet Partner",
+      "isActive": true,
+      "description": "Participe como desarrollador frontend en el Desarrollo de sistema para afiliados de HelpPet",
+      "highlights": ["React", "Typescript"],
+      "url": null
+    },
+    {
+      "name": "EsAmorApp",
+      "isActive": true,
+      "description": "Desarrollé e implementé una pasarela de pagos, un sistema chat en tiempo real con roles y restricciones e integré un exclusivamente publicidad a usuarios no premium.",
+      "highlights": ["HTML & CSS & JS", "Firebase"],
+      "url": "https://esamorapp.com/"
     }
   ]
 }
