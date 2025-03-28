@@ -6,7 +6,7 @@
     "email": "ruttiramosroyer@gmail.com",
     "phone": "+51943099815",
     "url": "https://wizardrevenge.com",
-    "summary": "Desarrollador de software con experiencia en HTML, CSS, JavaScript, TypeScript, SQL y PHP. Competente en frameworks como React, React Native, Next.js y Astro, así como en herramientas cloud como AWS, Vercel, Cloudflare y GCP. Con experiencia liderando equipos y desarrollando aplicaciones web escalables.",
+    "summary": "Desarrollador apasionado por crear soluciones tecnológicas innovadoras que mejoren la vida de las personas. Con experiencia en proyectos que van desde aplicaciones móviles hasta plataformas empresariales, siempre buscando optimizar la experiencia de usuario y la escalabilidad. Competente en tecnologías como React, React Native, Next.js, TypeScript, AWS, y GCP, con una sólida trayectoria en el liderazgo de equipos y el desarrollo de aplicaciones escalables y de alto rendimiento.",
     "location": {
       "address": "",
       "postalCode": "08820",
@@ -34,7 +34,7 @@
       "url": "https://www.easyhotel.pe/",
       "startDate": "2022-11-01",
       "endDate": null,
-      "summary": "Lideré y desarrollé plataformas como EasyHotelSystem, un sistema hotelero, EasyHotel, una herramienta de geolocalización para alojamientos y ERP EasyHotel, una plataforma de gestión empresarial. Supervisé despliegues, mantenimiento y actualizaciones junto a un equipo de desarrolladores.",
+      "summary": "Lideré y desarrollé plataformas como EasyHotelSystem, un sistema hotelero, EasyHotel, una herramienta de geolocalización para alojamientos, y ERP EasyHotel, una plataforma de gestión empresarial. Supervisé despliegues, mantenimiento y actualizaciones junto a un equipo de desarrolladores. El proyecto alcanzó más de 1500 alojamientos registrados y más de 1000 usuarios únicos mensuales.",
       "highlights": ["Started the company"]
     },
     {
@@ -45,6 +45,15 @@
       "endDate": "2024-09-01",
       "summary": "Desarrollé una aplicación móvil con React Native para Android e iOS. Implementé sistemas de autenticación, animaciones, y compilación de APK, utilizando principios de programación funcional.",
       "highlights": ["Started the company"]
+    },
+    {
+      "name": "International Web Services",
+      "position": "Fullstack Developer",
+      "url": "https://www.linkedin.com/company/international-web-services-s-a-s/",
+      "startDate": "2025-10-02",
+      "endDate": null,
+      "summary": "Trabajo como desarrollador Fullstack autonomo en International Web Services, contribuyendo al desarrollo y mantenimiento de soluciones tecnológicas para el proyecto Birdtur, incluyendo aplicaciones móviles y la optimización de la plataforma web.",
+      "highlights": ["React Native", "NestJS", "Astro", "Fullstack Development"]
     }
   ],
   "education": [
@@ -161,55 +170,72 @@
     {
       "name": "Easy Hotel Perú",
       "isActive": true,
-      "description": "Plataforma innovadora que combina geolocalización y un directorio digital para facilitar la búsqueda de alojamientos en todo el Perú.",
-      "highlights": [
-        "+1500 alojamientos",
-        "+1000 usuarios únicos mensuales",
-        "Nexjts & Typescript & React & Vercel"
-      ],
+      "description": "Plataforma innovadora para la búsqueda de alojamientos en Perú, con más de 1500 alojamientos y +1000 usuarios mensuales.",
+      "highlights": ["Next.js", "TypeScript", "React", "Vercel"],
       "url": "https://www.easyhotel.pe/"
     },
     {
       "name": "Easy Hotel System",
       "isActive": true,
-      "description": "Sistema de gestión hotelera diseñado para simplificar la administración de habitaciones, clientes y facturación, ofreciendo planes de suscripción flexibles.",
-      "highlights": ["PHP & MySQL & Laravel & AWS", "Javascript & React & Tailwind"],
+      "description": "Sistema de gestión hotelera con planes de suscripción flexibles para administración de habitaciones, clientes y facturación.",
+      "highlights": ["PHP", "MySQL", "Laravel", "AWS", "React", "Tailwind"],
       "url": "https://easyhotelsystem.com/"
     },
     {
       "name": "ERP Easy Hotel",
       "isActive": true,
-      "description": "Plataforma integral de gestión empresarial que centraliza el manejo de recursos, operaciones y finanzas para EasyHotel y sus sistemas asociados.",
-      "highlights": ["PHP & MySQL & Laravel & AWS", "TypeScript, React"],
+      "description": "Plataforma integral para gestionar recursos, operaciones y finanzas de EasyHotel y sistemas asociados.",
+      "highlights": ["PHP", "MySQL", "Laravel", "AWS", "TypeScript", "React"],
       "url": "https://erp.easyhotel.pe/"
     },
     {
       "name": "HelpPet",
-      "isActive": true,
-      "description": "Aplicación móvil centrada en mejorar la vida de las mascotas y sus dueños, con funcionalidades de salud, nutrición, actividades y asistencia en emergencias.",
-      "highlights": ["React Native, Expo", "Android, iOS", "En desarrollo"],
+      "isActive": false,
+      "description": "Aplicación móvil para mejorar la vida de las mascotas y sus dueños, con funcionalidades de salud, nutrición y emergencias.",
+      "highlights": ["React Native", "Expo"],
       "url": null
     },
     {
       "name": "HelpPet Master",
-      "isActive": true,
-      "description": "Participe como desarrollador frontend en el desarrollo de sistema de gestión de aplicación para aplicación HelpPet",
-      "highlights": ["React", "Typescript"],
+      "isActive": false,
+      "description": "Sistema de gestión para la app HelpPet.",
+      "highlights": ["React", "TypeScript"],
       "url": null
     },
     {
       "name": "HelpPet Partner",
-      "isActive": true,
-      "description": "Participe como desarrollador frontend en el Desarrollo de sistema para afiliados de HelpPet",
-      "highlights": ["React", "Typescript"],
+      "isActive": false,
+      "description": "Sistema para afiliados de HelpPet.",
+      "highlights": ["React", "TypeScript"],
       "url": null
     },
     {
       "name": "EsAmorApp",
       "isActive": true,
-      "description": "Desarrollé e implementé una pasarela de pagos, un sistema chat en tiempo real con roles y restricciones e integré un exclusivamente publicidad a usuarios no premium.",
-      "highlights": ["HTML & CSS & JS", "Firebase"],
+      "description": "Aplicación con pasarela de pagos, chat en tiempo real y publicidad exclusiva para usuarios no premium.",
+      "highlights": ["HTML", "CSS", "JS", "Firebase"],
       "url": "https://esamorapp.com/"
+    },
+    {
+      "name": "Birdtur Web",
+      "isActive": true,
+      "description": "Landing page informativa sobre la nueva forma de hacer turismo, construida con Astro.",
+      "highlights": ["En desarrollo", "Astro"],
+      "url": "https://birdtur.com"
+    },
+    {
+      "name": "Birdtur App",
+      "isActive": true,
+      "description": "Aplicación móvil que busca transformar la experiencia turística, en desarrollo con React Native y NestJS.",
+      "highlights": ["En desarrollo", "React Native", "NestJS"],
+      "url": "https://birdtur.com"
+    },
+    {
+      "name": "Birdtur Admin",
+      "isActive": true,
+      "description": "Dashboard de administración de Birdtur en desarrollo, construido con Next.js y NestJS.",
+      "highlights": ["En desarrollo", "Next.js", "NestJS"],
+      "url": "https://birdtur-master-partner.vercel.app/"
     }
   ]
 }
